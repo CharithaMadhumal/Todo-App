@@ -39,16 +39,19 @@ input{
 }
 
 .add{
-  background-color: #000;
+  background-color: #8f0606;
   color: #fff;
   padding: 0.5rem 1.5rem;
   cursor: pointer;
+}
+.add:hover{
+  background-color: rgb(8, 154, 8);
 }
 
 .todo{
   position: relative;
   margin-top: 1rem;
-  background-color: #000;
+  background-color: #560df2;
   color: #fff;
   padding: 1.5rem 3rem;
   border-radius: 5px;
